@@ -1,0 +1,12 @@
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\bin\Debug\Readbooks.exe.config
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\bin\Debug\Readbooks.exe
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\bin\Debug\Readbooks.pdb
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\bin\Debug\Readbooks.xml
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\obj\Debug\Readbooks.vbprojAssemblyReference.cache
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\obj\Debug\Readbooks.Form1.resources
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\obj\Debug\Readbooks.Resources.resources
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\obj\Debug\Readbooks.vbproj.GenerateResource.cache
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\obj\Debug\Readbooks.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\obj\Debug\Readbooks.exe
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\obj\Debug\Readbooks.xml
+D:\Visual Basic\VB.NET w programowaniu obiektowym\Rozdzial1\Readbooks\obj\Debug\Readbooks.pdb
